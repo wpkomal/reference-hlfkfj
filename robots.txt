@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wpkomal.github.io/reference-hlfkfj/sitemap.xml
